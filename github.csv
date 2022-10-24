@@ -1,0 +1,901 @@
+Username,Repo_name,Stars,Url,Issues,Pull_Requests,Forks,Topics
+mrdoob,three.js,7900,https://github.com/mrdoob/three.js,338,138,30600,3D
+libgdx,libgdx,19600,https://github.com/libgdx/libgdx,164,61,6300,3D
+pmndrs,react-three-fiber,16800,https://github.com/pmndrs/react-three-fiber,18,4,908,3D
+BabylonJS,Babylon.js,15900,https://github.com/BabylonJS/Babylon.js,72,11,2700,3D
+aframevr,aframe,13800,https://github.com/aframevr/aframe,310,39,3300,3D
+ssloy,tinyrenderer,12100,https://github.com/ssloy/tinyrenderer,26,0,1200,3D
+lettier,3d-game-shaders-for-beginners,12100,https://github.com/lettier/3d-game-shaders-for-beginners,13,0,907,3D
+FreeCAD,FreeCAD,10700,https://github.com/FreeCAD/FreeCAD,734,67,2600,3D
+metafizzy,zdog,900,https://github.com/metafizzy/zdog,38,6,350,3D
+CesiumGS,cesium,8300,https://github.com/CesiumGS/cesium,1200,28,2700,3D
+timzhang642,3D-Machine-Learning,7600,https://github.com/timzhang642/3D-Machine-Learning,16,2,1600,3D
+a1studmuffin,SpaceshipGenerator,700,https://github.com/a1studmuffin/SpaceshipGenerator,5,5,387,3D
+isl-org,Open3D,6100,https://github.com/isl-org/Open3D,326,26,1500,3D
+domlysz,BlenderGIS,4800,https://github.com/domlysz/BlenderGIS,133,11,875,3D
+spritejs,spritejs,4800,https://github.com/spritejs/spritejs,60,2,306,3D
+blender,blender,4700,https://github.com/blender/blender,NA,0,836,3D
+openscad,openscad,4600,https://github.com/openscad/openscad,628,86,965,3D
+tensorspace-team,tensorspace,4600,https://github.com/tensorspace-team/tensorspace,22,0,404,3D
+jagenjo,webglstudio.js,4600,https://github.com/jagenjo/webglstudio.js,32,1,520,3D
+YadiraF,PRNet,4500,https://github.com/YadiraF/PRNet,155,5,912,3D
+AaronJackson,vrn,4400,https://github.com/AaronJackson/vrn,5,0,745,3D
+ssloy,tinyraytracer,400,https://github.com/ssloy/tinyraytracer,9,1,246,3D
+google,model-viewer,400,https://github.com/google/model-viewer,98,9,472,3D
+mosra,magnum,3800,https://github.com/mosra/magnum,56,24,378,3D
+gfxfundamentals,webgl-fundamentals,3400,https://github.com/gfxfundamentals/webgl-fundamentals,29,5,514,3D
+FyroxEngine,Fyrox,3400,https://github.com/FyroxEngine/Fyrox,53,4,138,3D
+cleardusk,3DDFA,3200,https://github.com/cleardusk/3DDFA,49,1,617,3D
+tengbao,vanta,3200,https://github.com/tengbao/vanta,32,13,940,3D
+jasonlong,isometric-contributions,3100,https://github.com/jasonlong/isometric-contributions,0,0,160,3D
+cnr-isti-vclab,meshlab,2700,https://github.com/cnr-isti-vclab/meshlab,102,2,605,3D
+metafizzy,infinite-scroll,700,https://github.com/metafizzy/infinite-scroll,37,0,1800,Ajax
+ljianshu,Blog,6900,https://github.com/ljianshu/Blog,65,17,1100,Ajax
+developit,unfetch,5300,https://github.com/developit/unfetch,16,13,209,Ajax
+jquery-form,form,5100,https://github.com/jquery-form/form,17,4,2200,Ajax
+olifolkerd,tabulator,4400,https://github.com/olifolkerd/tabulator,93,9,606,Ajax
+Studio-42,elFinder,4200,https://github.com/Studio-42/elFinder,42,3,1400,Ajax
+ded,reqwest,2900,https://github.com/ded/reqwest,83,24,354,Ajax
+dwyl,learn-to-send-email-via-google-script-html-no-server,2800,https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server,9,1,836,Ajax
+LeaVerou,bliss,2400,https://github.com/LeaVerou/bliss,26,6,110,Ajax
+elbywan,wretch,2300,https://github.com/elbywan/wretch,5,0,62,Ajax
+noelboss,featherlight,200,https://github.com/noelboss/featherlight,79,15,310,Ajax
+wendux,Ajax-hook,200,https://github.com/wendux/Ajax-hook,39,4,408,Ajax
+yisainan,web-interview,1900,https://github.com/yisainan/web-interview,1100,0,443,Ajax
+craftpip,jquery-confirm,1800,https://github.com/craftpip/jquery-confirm,174,3,517,Ajax
+ptaoussanis,sente,1600,https://github.com/ptaoussanis/sente,36,5,184,Ajax
+joaomilho,Enterprise,1500,https://github.com/joaomilho/Enterprise,32,2,43,Ajax
+nette,tracy,1500,https://github.com/nette/tracy,27,14,203,Ajax
+u014427391,jeeplatform,1300,https://github.com/u014427391/jeeplatform,5,6,575,Ajax
+loadingio,css-spinner,1300,https://github.com/loadingio/css-spinner,1,2,194,Ajax
+MoOx,pjax,1200,https://github.com/MoOx/pjax,34,10,126,Ajax
+codingforentrepreneurs,eCommerce,1200,https://github.com/codingforentrepreneurs/eCommerce,18,2,749,Ajax
+danielm,uploader,1100,https://github.com/danielm/uploader,45,6,394,Ajax
+renderedtext,render_async,100,https://github.com/renderedtext/render_async,9,0,75,Ajax
+swlib,saber,942,https://github.com/swlib/saber,20,0,118,Ajax
+proyecto26,RestClient,864,https://github.com/proyecto26/RestClient,14,1,129,Ajax
+webcreate,infinite-ajax-scroll,843,https://github.com/webcreate/infinite-ajax-scroll,5,1,352,Ajax
+opensource-socialnetwork,opensource-socialnetwork,842,https://github.com/opensource-socialnetwork/opensource-socialnetwork,14,1,452,Ajax
+k8w,tsrpc,820,https://github.com/k8w/tsrpc,1,0,113,Ajax
+rapidjs,rapid.js,709,https://github.com/rapidjs/rapid.js,10,3,39,Ajax
+csxiaoyaojianxian,JavaScriptStudy,595,https://github.com/csxiaoyaojianxian/JavaScriptStudy,0,47,188,Ajax
+jwasham,coding-interview-university,20900,https://github.com/jwasham/coding-interview-university,35,8,56500,Algorithm
+CyC2018,CS-Notes,14600,https://github.com/CyC2018/CS-Notes,99,49,46600,Algorithm
+trekhleb,javascript-algorithms,13500,https://github.com/trekhleb/javascript-algorithms,90,136,22200,Algorithm
+TheAlgorithms,Python,12900,https://github.com/TheAlgorithms/Python,23,212,34200,Algorithm
+yangshun,tech-interview-handbook,65900,https://github.com/yangshun/tech-interview-handbook,7,0,9100,Algorithm
+kdn251,interviews,56200,https://github.com/kdn251/interviews,29,74,11900,Algorithm
+azl397985856,leetcode,46500,https://github.com/azl397985856/leetcode,6,5,8700,Algorithm
+TheAlgorithms,Java,44300,https://github.com/TheAlgorithms/Java,8,9,14500,Algorithm
+algorithm-visualizer,algorithm-visualizer,36300,https://github.com/algorithm-visualizer/algorithm-visualizer,19,17,5900,Algorithm
+crossoverJie,JCSprout,26600,https://github.com/crossoverJie/JCSprout,31,10,7100,Algorithm
+donnemartin,interactive-coding-challenges,24700,https://github.com/donnemartin/interactive-coding-challenges,33,34,400,Algorithm
+halfrost,LeetCode-Go,23300,https://github.com/halfrost/LeetCode-Go,11,2,4300,Algorithm
+youngyangyang04,leetcode-master,22400,https://github.com/youngyangyang04/leetcode-master,63,34,5800,Algorithm
+huihut,interview,22200,https://github.com/huihut/interview,4,2,6200,Algorithm
+keon,algorithms,20400,https://github.com/keon/algorithms,53,129,4200,Algorithm
+trekhleb,homemade-machine-learning,18900,https://github.com/trekhleb/homemade-machine-learning,9,12,3500,Algorithm
+TheAlgorithms,C-Plus-Plus,1800,https://github.com/TheAlgorithms/C-Plus-Plus,9,59,4900,Algorithm
+TheAlgorithms,Javascript,17400,https://github.com/TheAlgorithms/Javascript,5,18,300,Algorithm
+mxgmn,WaveFunctionCollapse,17300,https://github.com/mxgmn/WaveFunctionCollapse,0,1,912,Algorithm
+AtsushiSakai,PythonRobotics,14400,https://github.com/AtsushiSakai/PythonRobotics,10,3,4700,Algorithm
+greyireland,algorithm-pattern,13200,https://github.com/greyireland/algorithm-pattern,23,1,2400,Algorithm
+OpenGenus,cosmos,1300,https://github.com/OpenGenus/cosmos,966,1500,3400,Algorithm
+williamfiset,Algorithms,11900,https://github.com/williamfiset/Algorithms,52,23,3200,Algorithm
+halfrost,Halfrost-Field,10600,https://github.com/halfrost/Halfrost-Field,2,2,1700,Algorithm
+apachecn,apachecn-algo-zh,10500,https://github.com/apachecn/apachecn-algo-zh,3,0,2200,Algorithm
+lnishan,awesome-competitive-programming,9400,https://github.com/lnishan/awesome-competitive-programming,5,12,2300,Algorithm
+Blankj,awesome-java-leetcode,8300,https://github.com/Blankj/awesome-java-leetcode,5,10,1700,Algorithm
+jeffgerickson,algorithms,7400,https://github.com/jeffgerickson/algorithms,114,1,990,Algorithm
+mgechev,javascript-algorithms,7100,https://github.com/mgechev/javascript-algorithms,5,2,1200,Algorithm
+LeetCode-OpenSource,vscode-leetcode,7100,https://github.com/LeetCode-OpenSource/vscode-leetcode,176,21,522,Algorithm
+amphp,amp,3500,https://github.com/amphp/amp,11,3,204,Amp
+danog,MadelineProto,1800,https://github.com/danog/MadelineProto,25,1,458,Amp
+amphp,http-server,1200,https://github.com/amphp/http-server,3,0,86,Amp
+unreal4u,telegram-api,690,https://github.com/unreal4u/telegram-api,11,2,158,Amp
+amphp,http-client,598,https://github.com/amphp/http-client,5,0,58,Amp
+amphp,parallel,565,https://github.com/amphp/parallel,27,4,48,Amp
+php-service-bus,service-bus,315,https://github.com/php-service-bus/service-bus,2,0,20,Amp
+amphp,byte-stream,274,https://github.com/amphp/byte-stream,2,3,21,Amp
+amphp,mysql,263,https://github.com/amphp/mysql,12,0,48,Amp
+amphp,parallel-functions,216,https://github.com/amphp/parallel-functions,1,0,13,Amp
+amphp,process,162,https://github.com/amphp/process,3,0,25,Amp
+amphp,socket,151,https://github.com/amphp/socket,8,0,33,Amp
+amphp,redis,121,https://github.com/amphp/redis,3,1,25,Amp
+amphp,dns,109,https://github.com/amphp/dns,9,1,28,Amp
+kelunik,acme,106,https://github.com/kelunik/acme,5,0,14,Amp
+amphp,websocket-client,97,https://github.com/amphp/websocket-client,5,0,17,Amp
+amphp,sync,99,https://github.com/amphp/sync,0,0,8,Amp
+PeeHaa,mailgrab,91,https://github.com/PeeHaa/mailgrab,7,0,2,Amp
+amphp,websocket-server,74,https://github.com/amphp/websocket-server,2,0,12,Amp
+amphp,file,70,https://github.com/amphp/file,5,5,19,Amp
+jolicode,asynit,68,https://github.com/jolicode/asynit,4,2,8,Amp
+amphp,cache,65,https://github.com/amphp/cache,0,1,15,Amp
+amphp,postgres,63,https://github.com/amphp/postgres,6,2,15,Amp
+amphp,serialization,64,https://github.com/amphp/serialization,0,0,1,Amp
+amphp,windows-registry,60,https://github.com/amphp/windows-registry,0,0,3,Amp
+amphp,hpack,59,https://github.com/amphp/hpack,0,0,6,Amp
+amphp,beanstalk,56,https://github.com/amphp/beanstalk,3,1,19,Amp
+phpinnacle,ridge,45,https://github.com/phpinnacle/ridge,2,0,7,Amp
+amphp,aerys,42,https://github.com/amphp/aerys,NA,1,7,Amp
+amphp,cluster,41,https://github.com/amphp/cluster,2,0,4,Amp
+flutter,flutter,13600,https://github.com/flutter/flutter,5000,172,20700,Android
+justjavac,free-programming-books-zh_CN,87300,https://github.com/justjavac/free-programming-books-zh_CN,NA,24,2500,Android
+Genymobile,scrcpy,61200,https://github.com/Genymobile/scrcpy,889,32,6500,Android
+Hack-with-Github,Awesome-Hacking,49300,https://github.com/Hack-with-Github/Awesome-Hacking,NA,5,7700,Android
+google,material-design-icons,4500,https://github.com/google/material-design-icons,199,14,9100,Android
+wasabeef,awesome-android-ui,42100,https://github.com/wasabeef/awesome-android-ui,2,10,10100,Android
+square,okhttp,41600,https://github.com/square/okhttp,127,9,8800,Android
+android,architecture-samples,40200,https://github.com/android/architecture-samples,131,64,1100,Android
+square,retrofit,39500,https://github.com/square/retrofit,129,28,7100,Android
+Solido,awesome-flutter,39400,https://github.com/Solido/awesome-flutter,NA,37,5800,Android
+PhilJay,MPAndroidChart,34600,https://github.com/PhilJay/MPAndroidChart,1900,124,8600,Android
+fastlane,fastlane,34100,https://github.com/fastlane/fastlane,119,64,5100,Android
+airbnb,lottie-android,32400,https://github.com/airbnb/lottie-android,16,1,5200,Android
+shadowsocks,shadowsocks-android,32300,https://github.com/shadowsocks/shadowsocks-android,25,2,11600,Android
+bumptech,glide,32200,https://github.com/bumptech/glide,321,15,5900,Android
+Trinea,android-open-project,30800,https://github.com/Trinea/android-open-project,12,15,12100,Android
+Blankj,AndroidUtilCode,30400,https://github.com/Blankj/AndroidUtilCode,150,4,10100,Android
+xitu,gold-miner,30100,https://github.com/xitu/gold-miner,25,19,4800,Android
+bilibili,ijkplayer,3000,https://github.com/bilibili/ijkplayer,2700,59,7700,Android
+skylot,jadx,2900,https://github.com/skylot/jadx,204,1,3600,Android
+zxing,zxing,2900,https://github.com/zxing/zxing,6,1,9200,Android
+laurent22,joplin,28100,https://github.com/laurent22/joplin,316,15,3200,Android
+codepath,android_guides,27700,https://github.com/codepath/android_guides,155,3,6500,Android
+square,leakcanary,27200,https://github.com/square/leakcanary,82,9,3900,Android
+alibaba,fastjson,24100,https://github.com/alibaba/fastjson,1700,134,6400,Android
+scwang90,SmartRefreshLayout,23300,https://github.com/scwang90/SmartRefreshLayout,216,2,4800,Android
+CymChad,BaseRecyclerViewAdapterHelper,22600,https://github.com/CymChad/BaseRecyclerViewAdapterHelper,439,15,4800,Android
+react-native-elements,react-native-elements,2200,https://github.com/react-native-elements/react-native-elements,63,6,4400,Android
+google,iosched,21100,https://github.com/google/iosched,41,19,6200,Android
+NativeScript,NativeScript,20900,https://github.com/NativeScript/NativeScript,893,37,1600,Android
+justjavac,free-programming-books-zh_CN,87300,https://github.com/justjavac/free-programming-books-zh_CN,NA,24,2500,Angular
+angular,angular,79600,https://github.com/angular/angular,1600,98,20900,Angular
+storybookjs,storybook,68700,https://github.com/storybookjs/storybook,1600,108,7100,Angular
+leonardomso,33-js-concepts,46600,https://github.com/leonardomso/33-js-concepts,7,5,6200,Angular
+ionic-team,ionic-framework,46300,https://github.com/ionic-team/ionic-framework,628,63,13600,Angular
+prettier,prettier,41900,https://github.com/prettier/prettier,807,201,3200,Angular
+SheetJS,sheetjs,2900,https://github.com/SheetJS/sheetjs,65,14,7400,Angular
+angular,angular-cli,25200,https://github.com/angular/angular-cli,260,20,12100,Angular
+angular,components,22500,https://github.com/angular/components,1700,323,600,Angular
+NativeScript,NativeScript,20900,https://github.com/NativeScript/NativeScript,893,37,1600,Angular
+jhipster,generator-jhipster,19300,https://github.com/jhipster/generator-jhipster,250,17,3800,Angular
+pubkey,rxdb,1700,https://github.com/pubkey/rxdb,2,6,822,Angular
+handsontable,handsontable,16200,https://github.com/handsontable/handsontable,812,23,2700,Angular
+teambit,bit,14700,https://github.com/teambit/bit,179,32,814,Angular
+goldbergyoni,javascript-testing-best-practices,14500,https://github.com/goldbergyoni/javascript-testing-best-practices,29,4,1200,Angular
+sweetalert2,sweetalert2,14200,https://github.com/sweetalert2/sweetalert2,9,1,1400,Angular
+linnovate,mean,12100,https://github.com/linnovate/mean,8,26,3600,Angular
+codesandbox,codesandbox-client,11200,https://github.com/codesandbox/codesandbox-client,200,54,1900,Angular
+nrwl,nx,10700,https://github.com/nrwl/nx,489,42,100,Angular
+PatrickJS,angular-starter,10400,https://github.com/PatrickJS/angular-starter,2,2,5100,Angular
+Chocobozzz,PeerTube,10300,https://github.com/Chocobozzz/PeerTube,358,5,1100,Angular
+angular,protractor,8800,https://github.com/angular/protractor,611,67,2400,Angular
+OnsenUI,OnsenUI,8500,https://github.com/OnsenUI/OnsenUI,161,13,999,Angular
+dotansimha,graphql-code-generator,8300,https://github.com/dotansimha/graphql-code-generator,322,38,923,Angular
+PatrickJS,awesome-angular,8200,https://github.com/PatrickJS/awesome-angular,0,8,1200,Angular
+text-mask,text-mask,8100,https://github.com/text-mask/text-mask,253,48,824,Angular
+sudheerj,javascript-interview-questions,8100,https://github.com/sudheerj/javascript-interview-questions,3,1,2400,Angular
+NG-ZORRO,ng-zorro-antd,800,https://github.com/NG-ZORRO/ng-zorro-antd,512,101,300,Angular
+ag-grid,ag-grid,800,https://github.com/ag-grid/ag-grid,50,1,1400,Angular
+ng-bootstrap,ng-bootstrap,7900,https://github.com/ng-bootstrap/ng-bootstrap,330,58,1500,Angular
+ansible,ansible,52100,https://github.com/ansible/ansible,1000,444,21600,Ansible
+trailofbits,algo,24600,https://github.com/trailofbits/algo,102,11,200,Ansible
+StreisandEffect,streisand,22600,https://github.com/StreisandEffect/streisand,211,29,200,Ansible
+bregman-arie,devops-exercises,21200,https://github.com/bregman-arie/devops-exercises,12,5,4400,Ansible
+kubernetes-sigs,kubespray,11900,https://github.com/kubernetes-sigs/kubespray,106,31,500,Ansible
+ansible,awx,10700,https://github.com/ansible/awx,1300,71,2700,Ansible
+easzlab,kubeasz,7800,https://github.com/easzlab/kubeasz,361,1,2900,Ansible
+geerlingguy,ansible-for-devops,5400,https://github.com/geerlingguy/ansible-for-devops,78,8,2200,Ansible
+khuedoan,homelab,5300,https://github.com/khuedoan/homelab,10,0,297,Ansible
+ansible-semaphore,semaphore,4700,https://github.com/ansible-semaphore/semaphore,75,2,624,Ansible
+rundeck,rundeck,4500,https://github.com/rundeck/rundeck,511,32,817,Ansible
+geerlingguy,mac-dev-playbook,4400,https://github.com/geerlingguy/mac-dev-playbook,5,1,1300,Ansible
+Tikam02,DevOps-Guide,4300,https://github.com/Tikam02/DevOps-Guide,5,2,704,Ansible
+KubeOperator,KubeOperator,4200,https://github.com/KubeOperator/KubeOperator,8,0,760,Ansible
+clong,DetectionLab,3400,https://github.com/clong/DetectionLab,16,1,739,Ansible
+ansible-community,molecule,3300,https://github.com/ansible-community/molecule,36,8,574,Ansible
+opendevops-cn,opendevops,300,https://github.com/opendevops-cn/opendevops,47,4,898,Ansible
+werf,werf,2900,https://github.com/werf/werf,238,1,146,Ansible
+welliamcao,OpsManage,2900,https://github.com/welliamcao/OpsManage,53,22,1500,Ansible
+netbootxyz,netboot.xyz,2900,https://github.com/netbootxyz/netboot.xyz,13,0,427,Ansible
+MichaelCade,90DaysOfDevOps,2800,https://github.com/MichaelCade/90DaysOfDevOps,6,3,253,Ansible
+ansible-community,ansible-lint,2700,https://github.com/ansible-community/ansible-lint,70,11,440,Ansible
+dev-sec,ansible-collection-hardening,2600,https://github.com/dev-sec/ansible-collection-hardening,22,3,522,Ansible
+alixaxel,chrome-aws-lambda,2600,https://github.com/alixaxel/chrome-aws-lambda,37,4,191,Ansible
+litmuschaos,litmus,2500,https://github.com/litmuschaos/litmus,230,27,455,Ansible
+roots,trellis,2300,https://github.com/roots/trellis,38,10,592,Ansible
+ansistrano,deploy,2200,https://github.com/ansistrano/deploy,3,1,317,Ansible
+openshift,openshift-ansible,200,https://github.com/openshift/openshift-ansible,9,5,2300,Ansible
+fboender,ansible-cmdb,200,https://github.com/fboender/ansible-cmdb,25,13,425,Ansible
+pytest-dev,pytest-testinfra,200,https://github.com/pytest-dev/pytest-testinfra,102,13,293,Ansible
+public-apis,public-apis,18000,https://github.com/public-apis/public-apis,3,9,20800,API
+neovim,neovim,50800,https://github.com/neovim/neovim,1200,350,3700,API
+strapi,strapi,43100,https://github.com/strapi/strapi,502,73,5200,API
+tiangolo,fastapi,41700,https://github.com/tiangolo/fastapi,919,464,3200,API
+hoppscotch,hoppscotch,36300,https://github.com/hoppscotch/hoppscotch,42,5,2600,API
+slatedocs,slate,33700,https://github.com/slatedocs/slate,33,0,21200,API
+hasura,graphql-engine,25500,https://github.com/hasura/graphql-engine,1600,211,2200,API
+YMFE,yapi,23500,https://github.com/YMFE/yapi,1300,38,4100,API
+ccxt,ccxt,23300,https://github.com/ccxt/ccxt,508,159,5700,API
+Binaryify,NeteaseCloudMusicApi,22800,https://github.com/Binaryify/NeteaseCloudMusicApi,89,14,7100,API
+encode,django-rest-framework,22800,https://github.com/encode/django-rest-framework,110,115,600,API
+littlecodersh,ItChat,2200,https://github.com/littlecodersh/ItChat,232,14,5200,API
+paularmstrong,normalizr,20800,https://github.com/paularmstrong/normalizr,22,16,852,API
+FallibleInc,security-guide-for-developers,20100,https://github.com/FallibleInc/security-guide-for-developers,8,11,1500,API
+Kong,insomnia,19600,https://github.com/Kong/insomnia,527,64,1200,API
+microsoft,api-guidelines,18500,https://github.com/microsoft/api-guidelines,67,22,2200,API
+pubkey,rxdb,1700,https://github.com/pubkey/rxdb,2,6,822,API
+shieldfy,API-Security-Checklist,16700,https://github.com/shieldfy/API-Security-Checklist,11,4,200,API
+directus,directus,13800,https://github.com/directus/directus,153,115,1600,API
+learn-anything,learn-anything,13600,https://github.com/learn-anything/learn-anything,NA,0,901,API
+ChainSafe,web3.js,13600,https://github.com/ChainSafe/web3.js,96,22,3800,API
+youfou,wxpy,13100,https://github.com/youfou/wxpy,294,8,2300,API
+jsdoc,jsdoc,12700,https://github.com/jsdoc/jsdoc,357,52,1400,API
+BrainJS,brain.js,12400,https://github.com/BrainJS/brain.js,104,3,100,API
+fangzesheng,free-api,11900,https://github.com/fangzesheng/free-api,26,0,1400,API
+OpenAPITools,openapi-generator,11200,https://github.com/OpenAPITools/openapi-generator,2700,362,3900,API
+graphile,postgraphile,11100,https://github.com/graphile/postgraphile,47,5,510,API
+go-chi,chi,10900,https://github.com/go-chi/chi,15,6,739,API
+postmanlabs,httpbin,10600,https://github.com/postmanlabs/httpbin,114,42,1600,API
+star7th,showdoc,10200,https://github.com/star7th/showdoc,66,5,200,API
+arendst,Tasmota,17100,https://github.com/arendst/Tasmota,13,7,3800,Arduino
+MarlinFirmware,Marlin,12600,https://github.com/MarlinFirmware/Marlin,635,41,16200,Arduino
+rwaldron,johnny-five,12500,https://github.com/rwaldron/johnny-five,35,3,1800,Arduino
+arduino,Arduino,12500,https://github.com/arduino/Arduino,771,105,700,Arduino
+SpacehuhnTech,esp8266_deauther,9600,https://github.com/SpacehuhnTech/esp8266_deauther,79,3,2100,Arduino
+tinygo-org,tinygo,9400,https://github.com/tinygo-org/tinygo,260,99,534,Arduino
+espressif,arduino-esp32,8100,https://github.com/espressif/arduino-esp32,351,31,5100,Arduino
+hybridgroup,gobot,7600,https://github.com/hybridgroup/gobot,140,25,951,Arduino
+gurugio,lowlevelprogramming-university,7300,https://github.com/gurugio/lowlevelprogramming-university,0,0,527,Arduino
+platformio,platformio-core,5700,https://github.com/platformio/platformio-core,178,1,661,Arduino
+bblanchon,ArduinoJson,5500,https://github.com/bblanchon/ArduinoJson,19,0,999,Arduino
+tzapu,WiFiManager,500,https://github.com/tzapu/WiFiManager,419,35,1600,Arduino
+hybridgroup,cylon,3900,https://github.com/hybridgroup/cylon,43,3,373,Arduino
+Arduino-IRremote,Arduino-IRremote,3500,https://github.com/Arduino-IRremote/Arduino-IRremote,1,0,1600,Arduino
+blynkkk,blynk-library,3300,https://github.com/blynkkk/blynk-library,13,6,1100,Arduino
+arduino,arduino-cli,3300,https://github.com/arduino/arduino-cli,227,24,298,Arduino
+NectarJS,nectarjs,3200,https://github.com/NectarJS/nectarjs,21,1,110,Arduino
+olikraus,u8g2,2800,https://github.com/olikraus/u8g2,139,11,738,Arduino
+gioblu,PJON,2600,https://github.com/gioblu/PJON,49,4,233,Arduino
+1technophile,OpenMQTTGateway,2500,https://github.com/1technophile/OpenMQTTGateway,69,4,550,Arduino
+Serial-Studio,Serial-Studio,2300,https://github.com/Serial-Studio/Serial-Studio,14,1,262,Arduino
+scottlawsonbc,audio-reactive-led-strip,2300,https://github.com/scottlawsonbc/audio-reactive-led-strip,92,7,577,Arduino
+isl-org,OpenBot,2100,https://github.com/isl-org/OpenBot,10,4,363,Arduino
+crankyoldgit,IRremoteESP8266,200,https://github.com/crankyoldgit/IRremoteESP8266,8,2,625,Arduino
+scottbez1,splitflap,200,https://github.com/scottbez1/splitflap,14,1,159,Arduino
+nRF24,RF24,1800,https://github.com/nRF24/RF24,10,5,900,Arduino
+stm32duino,Arduino_Core_STM32,1800,https://github.com/stm32duino/Arduino_Core_STM32,19,10,694,Arduino
+Bodmer,TFT_eSPI,1700,https://github.com/Bodmer/TFT_eSPI,12,2,574,Arduino
+blinker-iot,blinker-library,1700,https://github.com/blinker-iot/blinker-library,0,1,177,Arduino
+ThingPulse,esp8266-oled-ssd1306,1600,https://github.com/ThingPulse/esp8266-oled-ssd1306,14,3,558,Arduino
+aspnetboilerplate,aspnetboilerplate,10200,https://github.com/aspnetboilerplate/aspnetboilerplate,185,4,3600,ASP.NET
+dotnet,AspNetCore.Docs,10100,https://github.com/dotnet/AspNetCore.Docs,561,11,23700,ASP.NET
+bitwarden,server,9200,https://github.com/bitwarden/server,102,13,781,ASP.NET
+nopSolutions,nopCommerce,700,https://github.com/nopSolutions/nopCommerce,200,56,400,ASP.NET
+ElectronNET,Electron.NET,6200,https://github.com/ElectronNET/Electron.NET,123,17,608,ASP.NET
+RicoSuter,NSwag,4900,https://github.com/RicoSuter/NSwag,1300,51,938,ASP.NET
+thangchung,clean-code-dotnet,4600,https://github.com/thangchung/clean-code-dotnet,13,24,745,ASP.NET
+JimBobSquarePants,ImageProcessor,2500,https://github.com/JimBobSquarePants/ImageProcessor,NA,1,502,ASP.NET
+smartstore,SmartStoreNET,2400,https://github.com/smartstore/SmartStoreNET,20,20,1400,ASP.NET
+dotnet,aspnet-api-versioning,2200,https://github.com/dotnet/aspnet-api-versioning,60,8,628,ASP.NET
+loic-sharma,BaGet,1900,https://github.com/loic-sharma/BaGet,181,42,400,ASP.NET
+mjebrahimi,Awesome-Microservices-DotNet,1600,https://github.com/mjebrahimi/Awesome-Microservices-DotNet,0,0,236,ASP.NET
+TrilonIO,aspnetcore-angular-universal,1500,https://github.com/TrilonIO/aspnetcore-angular-universal,109,2,471,ASP.NET
+TrilonIO,aspnetcore-Vue-starter,1200,https://github.com/TrilonIO/aspnetcore-Vue-starter,38,2,278,ASP.NET
+lampo1024,DncZeus,1200,https://github.com/lampo1024/DncZeus,5,0,377,ASP.NET
+MarimerLLC,csla,983,https://github.com/MarimerLLC/csla,66,2,355,ASP.NET
+riganti,dotvvm,599,https://github.com/riganti/dotvvm,98,15,89,ASP.NET
+cornflourblue,aspnet-core-3-jwt-authentication-api,589,https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api,4,3,283,ASP.NET
+json-api-dotnet,JsonApiDotNetCore,539,https://github.com/json-api-dotnet/JsonApiDotNetCore,34,4,147,ASP.NET
+antonioCoco,SharPyShell,517,https://github.com/antonioCoco/SharPyShell,3,0,99,ASP.NET
+chsakell,mvcarchitecture,451,https://github.com/chsakell/mvcarchitecture,4,0,206,ASP.NET
+brthor,Gofer.NET,433,https://github.com/brthor/Gofer.NET,11,5,43,ASP.NET
+YAFNET,YAFNET,423,https://github.com/YAFNET/YAFNET,1,1,184,ASP.NET
+Maarten88,rrod,379,https://github.com/Maarten88/rrod,0,0,95,ASP.NET
+IvanJosipovic,BlazorTable,373,https://github.com/IvanJosipovic/BlazorTable,68,10,85,ASP.NET
+SapphireDb,SapphireDb,368,https://github.com/SapphireDb/SapphireDb,9,1,27,ASP.NET
+Taritsyn,WebMarkupMin,347,https://github.com/Taritsyn/WebMarkupMin,6,0,38,ASP.NET
+chsakell,aspnet-core-identity,329,https://github.com/chsakell/aspnet-core-identity,4,19,99,ASP.NET
+EEParker,aspnetcore-vueclimiddleware,316,https://github.com/EEParker/aspnetcore-vueclimiddleware,11,3,64,ASP.NET
+ALMMa,datatables.aspnet,284,https://github.com/ALMMa/datatables.aspnet,23,0,134,ASP.NET
+atom,atom,56800,https://github.com/atom/atom,774,10,16800,Atom
+themerdev,themer,4600,https://github.com/themerdev/themer,19,4,108,Atom
+nteract,hydrogen,3800,https://github.com/nteract/hydrogen,154,8,362,Atom
+shd101wyy,markdown-preview-enhanced,3600,https://github.com/shd101wyy/markdown-preview-enhanced,821,2,470,Atom
+miniflux,v2,3300,https://github.com/miniflux/v2,195,7,343,Atom
+atom,teletype,2400,https://github.com/atom/teletype,146,15,351,Atom
+mehcode,awesome-atom,1900,https://github.com/mehcode/awesome-atom,1,4,118,Atom
+mmcdole,gofeed,1800,https://github.com/mmcdole/gofeed,32,10,166,Atom
+joefitzgerald,go-plus,1500,https://github.com/joefitzgerald/go-plus,74,18,141,Atom
+Glavin001,atom-beautify,1500,https://github.com/Glavin001/atom-beautify,332,42,464,Atom
+simplepie,simplepie,1400,https://github.com/simplepie/simplepie,35,4,373,Atom
+t9md,atom-vim-mode-plus,1400,https://github.com/t9md/atom-vim-mode-plus,119,6,113,Atom
+ocaml,merlin,1400,https://github.com/ocaml/merlin,192,29,199,Atom
+kurtmckee,feedparser,1400,https://github.com/kurtmckee/feedparser,68,8,282,Atom
+MagicStack,MagicPython,1300,https://github.com/MagicStack/MagicPython,52,3,94,Atom
+atom,apm,1200,https://github.com/atom/apm,179,10,296,Atom
+file-icons,atom,1200,https://github.com/file-icons/atom,17,0,245,Atom
+kettanaito,atomic-layout,1100,https://github.com/kettanaito/atomic-layout,19,12,28,Atom
+atom,github,994,https://github.com/atom/github,426,61,410,Atom
+nmdias,FeedKit,962,https://github.com/nmdias/FeedKit,14,5,118,Atom
+nathanbuchar,atom-one-dark-terminal,947,https://github.com/nathanbuchar/atom-one-dark-terminal,1,0,156,Atom
+danhper,atomic-chrome,926,https://github.com/danhper/atomic-chrome,18,0,38,Atom
+jesseweed,seti-ui,888,https://github.com/jesseweed/seti-ui,44,9,263,Atom
+fwcd,kotlin-language-server,866,https://github.com/fwcd/kotlin-language-server,109,7,115,Atom
+prettier,prettier-atom,770,https://github.com/prettier/prettier-atom,19,12,98,Atom
+raphamorim,lucario,740,https://github.com/raphamorim/lucario,11,3,73,Atom
+atom-community,atom-script,730,https://github.com/atom-community/atom-script,649,6,273,Atom
+jpmonette,feed,721,https://github.com/jpmonette/feed,29,13,137,Atom
+jasonmunro,cypht,696,https://github.com/jasonmunro/cypht,96,6,103,Atom
+jekyll,jekyll-feed,693,https://github.com/jekyll/jekyll-feed,14,18,189,Atom
+sindresorhus,awesome,18900,https://github.com/sindresorhus/awesome,21,18,22800,Awesome Lists
+vinta,awesome-python,11600,https://github.com/vinta/awesome-python,12,220,20700,Awesome Lists
+awesome-selfhosted,awesome-selfhosted,77400,https://github.com/awesome-selfhosted/awesome-selfhosted,102,48,5400,Awesome Lists
+avelino,awesome-go,75300,https://github.com/avelino/awesome-go,7,10,9500,Awesome Lists
+trimstray,the-book-of-secret-knowledge,59800,https://github.com/trimstray/the-book-of-secret-knowledge,30,31,5600,Awesome Lists
+papers-we-love,papers-we-love,53100,https://github.com/papers-we-love/papers-we-love,26,0,4400,Awesome Lists
+521xueweihan,HelloGitHub,52300,https://github.com/521xueweihan/HelloGitHub,16,0,7500,Awesome Lists
+Hack-with-Github,Awesome-Hacking,49300,https://github.com/Hack-with-Github/Awesome-Hacking,NA,5,7700,Awesome Lists
+jaywcjlove,awesome-mac,47700,https://github.com/jaywcjlove/awesome-mac,79,43,5200,Awesome Lists
+DopplerHQ,awesome-interview-questions,45100,https://github.com/DopplerHQ/awesome-interview-questions,1,6,6700,Awesome Lists
+sindresorhus,awesome-nodejs,43800,https://github.com/sindresorhus/awesome-nodejs,0,4,5300,Awesome Lists
+wasabeef,awesome-android-ui,42100,https://github.com/wasabeef/awesome-android-ui,2,10,10100,Awesome Lists
+Solido,awesome-flutter,39400,https://github.com/Solido/awesome-flutter,NA,37,5800,Awesome Lists
+prakhar1989,awesome-courses,39200,https://github.com/prakhar1989/awesome-courses,30,24,7500,Awesome Lists
+vsouza,awesome-ios,3900,https://github.com/vsouza/awesome-ios,2,17,6500,Awesome Lists
+MunGell,awesome-for-beginners,38600,https://github.com/MunGell/awesome-for-beginners,4,55,5500,Awesome Lists
+binhnguyennus,awesome-scalability,37400,https://github.com/binhnguyennus/awesome-scalability,NA,10,4400,Awesome Lists
+fffaraz,awesome-cpp,35800,https://github.com/fffaraz/awesome-cpp,340,52,600,Awesome Lists
+tiimgreen,github-cheat-sheet,33800,https://github.com/tiimgreen/github-cheat-sheet,7,10,500,Awesome Lists
+dypsilon,frontend-dev-bookmarks,33200,https://github.com/dypsilon/frontend-dev-bookmarks,17,98,4900,Awesome Lists
+akullpp,awesome-java,31400,https://github.com/akullpp/awesome-java,2,6,6700,Awesome Lists
+serhii-londar,open-source-mac-os-apps,29400,https://github.com/serhii-londar/open-source-mac-os-apps,31,18,1900,Awesome Lists
+dkhamsing,open-source-ios-apps,29400,https://github.com/dkhamsing/open-source-ios-apps,1,0,4600,Awesome Lists
+brillout,awesome-react-components,2900,https://github.com/brillout/awesome-react-components,1,0,2500,Awesome Lists
+ziadoz,awesome-php,26200,https://github.com/ziadoz/awesome-php,2,107,500,Awesome Lists
+herrbischoff,awesome-macos-command-line,25600,https://github.com/herrbischoff/awesome-macos-command-line,NA,0,1500,Awesome Lists
+rust-unofficial,awesome-rust,24200,https://github.com/rust-unofficial/awesome-rust,13,0,1700,Awesome Lists
+goabstract,Awesome-Design-Tools,23900,https://github.com/goabstract/Awesome-Design-Tools,1,52,1800,Awesome Lists
+alebcay,awesome-shell,22900,https://github.com/alebcay/awesome-shell,29,52,2100,Awesome Lists
+sindresorhus,awesome-electron,22400,https://github.com/sindresorhus/awesome-electron,0,0,1900,Awesome Lists
+serverless,serverless,42100,https://github.com/serverless/serverless,830,32,5100,Amazon Web Services
+localstack,localstack,38700,https://github.com/localstack/localstack,338,18,2900,Amazon Web Services
+donnemartin,data-science-ipython-notebooks,22400,https://github.com/donnemartin/data-science-ipython-notebooks,10,12,700,Amazon Web Services
+bregman-arie,devops-exercises,21200,https://github.com/bregman-arie/devops-exercises,12,5,4400,Amazon Web Services
+ramitsurana,awesome-kubernetes,12500,https://github.com/ramitsurana/awesome-kubernetes,3,0,200,Amazon Web Services
+aws,aws-cli,1200,https://github.com/aws/aws-cli,432,196,3100,Amazon Web Services
+kubernetes-sigs,kubespray,11900,https://github.com/kubernetes-sigs/kubespray,106,31,500,Amazon Web Services
+pulumi,pulumi,11400,https://github.com/pulumi/pulumi,1300,68,620,Amazon Web Services
+donnemartin,awesome-aws,10100,https://github.com/donnemartin/awesome-aws,6,55,1400,Amazon Web Services
+apereo,cas,9300,https://github.com/apereo/cas,NA,2,3700,Amazon Web Services
+mozilla,sops,9100,https://github.com/mozilla/sops,247,64,549,Amazon Web Services
+aws,chalice,8700,https://github.com/aws/chalice,314,49,894,Amazon Web Services
+aws-amplify,amplify-js,8600,https://github.com/aws-amplify/amplify-js,677,47,1900,Amazon Web Services
+apex,up,8500,https://github.com/apex/up,279,4,366,Amazon Web Services
+aws,serverless-application-model,8400,https://github.com/aws/serverless-application-model,253,36,2200,Amazon Web Services
+aws,aws-cdk,8200,https://github.com/aws/aws-cdk,2100,204,2200,Amazon Web Services
+google,go-cloud,8200,https://github.com/google/go-cloud,20,4,706,Amazon Web Services
+caprover,caprover,8200,https://github.com/caprover/caprover,54,2,549,Amazon Web Services
+angristan,openvpn-install,7400,https://github.com/angristan/openvpn-install,67,25,1900,Amazon Web Services
+aws,aws-sdk-go,7400,https://github.com/aws/aws-sdk-go,83,26,1800,Amazon Web Services
+boto,boto3,700,https://github.com/boto/boto3,252,26,1500,Amazon Web Services
+aws,aws-sdk-js,6900,https://github.com/aws/aws-sdk-js,188,28,1500,Amazon Web Services
+hashicorp,terraform-provider-aws,6900,https://github.com/hashicorp/terraform-provider-aws,3000,436,6200,Amazon Web Services
+GoogleCloudPlatform,terraformer,6800,https://github.com/GoogleCloudPlatform/terraformer,35,25,878,Amazon Web Services
+aws,amazon-sagemaker-examples,6500,https://github.com/aws/amazon-sagemaker-examples,516,89,4900,Amazon Web Services
+awslabs,aws-shell,6400,https://github.com/awslabs/aws-shell,83,12,706,Amazon Web Services
+gruntwork-io,terratest,5900,https://github.com/gruntwork-io/terratest,122,42,996,Amazon Web Services
+aws,aws-sam-cli,5900,https://github.com/aws/aws-sam-cli,399,39,100,Amazon Web Services
+99designs,aws-vault,5800,https://github.com/99designs/aws-vault,63,7,551,Amazon Web Services
+donnemartin,dev-setup,5600,https://github.com/donnemartin/dev-setup,23,10,1100,Amazon Web Services
+bregman-arie,devops-exercises,21200,https://github.com/bregman-arie/devops-exercises,12,5,4400,Azure
+ramitsurana,awesome-kubernetes,12500,https://github.com/ramitsurana/awesome-kubernetes,3,0,200,Azure
+microsoft,recommenders,12300,https://github.com/microsoft/recommenders,122,8,2100,Azure
+pulumi,pulumi,11400,https://github.com/pulumi/pulumi,1300,68,620,Azure
+Azure,azure-quickstart-templates,11400,https://github.com/Azure/azure-quickstart-templates,837,26,14100,Azure
+mozilla,sops,9100,https://github.com/mozilla/sops,247,64,549,Azure
+microsoft,computervision-recipes,8300,https://github.com/microsoft/computervision-recipes,55,7,100,Azure
+google,go-cloud,8200,https://github.com/google/go-cloud,20,4,706,Azure
+caprover,caprover,8200,https://github.com/caprover/caprover,54,2,549,Azure
+microsoft,azuredatastudio,6700,https://github.com/microsoft/azuredatastudio,1900,30,745,Azure
+node-formidable,formidable,6100,https://github.com/node-formidable/formidable,21,26,660,Azure
+infracost,infracost,5300,https://github.com/infracost/infracost,69,10,244,Azure
+midwayjs,midway,5300,https://github.com/midwayjs/midway,117,7,339,Azure
+thangchung,clean-code-dotnet,4600,https://github.com/thangchung/clean-code-dotnet,13,24,745,Azure
+budtmo,docker-android,4200,https://github.com/budtmo/docker-android,80,2,742,Azure
+cloud-custodian,cloud-custodian,400,https://github.com/cloud-custodian/cloud-custodian,1000,153,1100,Azure
+nccgroup,ScoutSuite,3900,https://github.com/nccgroup/ScoutSuite,112,28,597,Azure
+aquasecurity,tfsec,3900,https://github.com/aquasecurity/tfsec,27,2,336,Azure
+bridgecrewio,checkov,3800,https://github.com/bridgecrewio/checkov,166,16,557,Azure
+Azure,autorest,3700,https://github.com/Azure/autorest,75,11,684,Azure
+simov,grant,3600,https://github.com/simov/grant,17,1,238,Azure
+Azure,azure-sdk-for-net,3300,https://github.com/Azure/azure-sdk-for-net,1500,99,3200,Azure
+microsoft,SynapseML,3100,https://github.com/microsoft/SynapseML,202,39,653,Azure
+hashicorp,terraform-provider-azurerm,3100,https://github.com/hashicorp/terraform-provider-azurerm,1500,89,3100,Azure
+Azure,azure-powershell,2900,https://github.com/Azure/azure-powershell,895,89,2900,Azure
+Azure,azure-cli,2900,https://github.com/Azure/azure-cli,2600,125,200,Azure
+Azure,MachineLearningNotebooks,2900,https://github.com/Azure/MachineLearningNotebooks,207,28,2100,Azure
+mlabouardy,komiser,2700,https://github.com/mlabouardy/komiser,18,0,215,Azure
+APIs-guru,openapi-directory,2700,https://github.com/APIs-guru/openapi-directory,124,1,472,Azure
+learntocloud,learn-to-cloud,2400,https://github.com/learntocloud/learn-to-cloud,0,0,346,Azure
+babel,babel,40400,https://github.com/babel/babel,632,150,5200,Babel
+nylas,nylas-mail,24600,https://github.com/nylas/nylas-mail,986,29,1500,Babel
+kriasoft,react-starter-kit,21100,https://github.com/kriasoft/react-starter-kit,5,2,4100,Babel
+swc-project,swc,20400,https://github.com/swc-project/swc,230,22,619,Babel
+avajs,ava,19600,https://github.com/avajs/ava,76,5,1400,Babel
+electron-react-boilerplate,electron-react-boilerplate,1900,https://github.com/electron-react-boilerplate/electron-react-boilerplate,29,3,3200,Babel
+SimulatedGREG,electron-vue,14700,https://github.com/SimulatedGREG/electron-vue,257,17,1500,Babel
+grab,front-end-guide,14200,https://github.com/grab/front-end-guide,2,18,1100,Babel
+jamiebuilds,babel-handbook,10700,https://github.com/jamiebuilds/babel-handbook,NA,90,1600,Babel
+grommet,grommet,7800,https://github.com/grommet/grommet,157,25,935,Babel
+developit,htm,7400,https://github.com/developit/htm,24,4,152,Babel
+angular-fullstack,generator-angular-fullstack,6100,https://github.com/angular-fullstack/generator-angular-fullstack,240,16,1300,Babel
+documentationjs,documentation,5500,https://github.com/documentationjs/documentation,184,15,482,Babel
+insin,nwb,5400,https://github.com/insin/nwb,149,17,363,Babel
+ben-rogerson,twin.macro,5400,https://github.com/ben-rogerson/twin.macro,14,4,129,Babel
+egoist,poi,5300,https://github.com/egoist/poi,20,34,291,Babel
+thinkjs,thinkjs,5300,https://github.com/thinkjs/thinkjs,128,0,643,Babel
+transitive-bullshit,create-react-library,4600,https://github.com/transitive-bullshit/create-react-library,114,12,307,Babel
+babel,babel-loader,4600,https://github.com/babel/babel-loader,63,8,438,Babel
+jaredpalmer,backpack,4500,https://github.com/jaredpalmer/backpack,55,23,200,Babel
+duxianwei520,react,4400,https://github.com/duxianwei520/react,0,8,1600,Babel
+fkling,astexplorer,4400,https://github.com/fkling/astexplorer,78,28,543,Babel
+babel,minify,4300,https://github.com/babel/minify,155,31,238,Babel
+tleunen,babel-plugin-module-resolver,3200,https://github.com/tleunen/babel-plugin-module-resolver,93,8,206,Babel
+andywer,webpack-blocks,300,https://github.com/andywer/webpack-blocks,16,3,117,Babel
+babel,babel-eslint,300,https://github.com/babel/babel-eslint,0,4,229,Babel
+kunalkapadia,express-mongoose-es6-rest-api,2800,https://github.com/kunalkapadia/express-mongoose-es6-rest-api,58,11,695,Babel
+thx,gogocode,2800,https://github.com/thx/gogocode,15,0,199,Babel
+privatenumber,esbuild-loader,2700,https://github.com/privatenumber/esbuild-loader,7,0,65,Babel
+uidotdev,react-course,2500,https://github.com/uidotdev/react-course,1,0,924,Babel
+jlevy,the-art-of-command-line,10200,https://github.com/jlevy/the-art-of-command-line,107,96,1100,Bash
+nvm-sh,nvm,55400,https://github.com/nvm-sh/nvm,284,57,5800,Bash
+junegunn,fzf,42100,https://github.com/junegunn/fzf,229,41,1800,Bash
+dylanaraps,pure-bash-bible,28300,https://github.com/dylanaraps/pure-bash-bible,31,15,2600,Bash
+koalaman,shellcheck,27800,https://github.com/koalaman/shellcheck,729,5,1400,Bash
+mathiasbynens,dotfiles,27400,https://github.com/mathiasbynens/dotfiles,132,57,8700,Bash
+LeCoupa,awesome-cheatsheets,26900,https://github.com/LeCoupa/awesome-cheatsheets,14,34,4400,Bash
+acmesh-official,acme.sh,25400,https://github.com/acmesh-official/acme.sh,689,153,3500,Bash
+alebcay,awesome-shell,22900,https://github.com/alebcay/awesome-shell,29,52,2100,Bash
+starship,starship,22400,https://github.com/starship/starship,294,73,931,Bash
+jaywcjlove,linux-command,17900,https://github.com/jaywcjlove/linux-command,33,2,400,Bash
+Nyr,openvpn-install,14400,https://github.com/Nyr/openvpn-install,37,12,3900,Bash
+dylanaraps,neofetch,14300,https://github.com/dylanaraps/neofetch,97,93,100,Bash
+rbenv,rbenv,1400,https://github.com/rbenv/rbenv,14,10,1300,Bash
+powerline,powerline,13100,https://github.com/powerline/powerline,179,29,974,Bash
+shelljs,shelljs,1300,https://github.com/shelljs/shelljs,86,9,711,Bash
+Bash-it,bash-it,12800,https://github.com/Bash-it/bash-it,43,48,2200,Bash
+jessfraz,dockerfiles,12300,https://github.com/jessfraz/dockerfiles,50,24,2200,Bash
+faressoft,terminalizer,12300,https://github.com/faressoft/terminalizer,79,24,438,Bash
+withfig,autocomplete,10700,https://github.com/withfig/autocomplete,101,16,2700,Bash
+denisidoro,navi,10300,https://github.com/denisidoro/navi,30,3,409,Bash
+codota,TabNine,900,https://github.com/codota/TabNine,195,1,406,Bash
+rgcr,m-cli,8700,https://github.com/rgcr/m-cli,14,8,309,Bash
+alexanderepstein,Bash-Snippets,8600,https://github.com/alexanderepstein/Bash-Snippets,6,1,781,Bash
+direnv,direnv,8400,https://github.com/direnv/direnv,194,18,465,Bash
+kanaka,mal,8400,https://github.com/kanaka/mal,19,22,200,Bash
+skywind3000,awesome-cheatsheets,8100,https://github.com/skywind3000/awesome-cheatsheets,6,14,1600,Bash
+carlospolop,PEASS-ng,7700,https://github.com/carlospolop/PEASS-ng,5,0,1900,Bash
+angristan,openvpn-install,7400,https://github.com/angristan/openvpn-install,67,25,1900,Bash
+extrawurst,gitui,7300,https://github.com/extrawurst/gitui,55,21,264,Bash
+bitcoin,bitcoin,61900,https://github.com/bitcoin/bitcoin,618,430,31600,Bitcoin
+ccxt,ccxt,23300,https://github.com/ccxt/ccxt,508,159,5700,Bitcoin
+HelloZeroNet,ZeroNet,17300,https://github.com/HelloZeroNet/ZeroNet,695,54,2200,Bitcoin
+freqtrade,freqtrade,15800,https://github.com/freqtrade/freqtrade,48,21,3400,Bitcoin
+askmike,gekko,9900,https://github.com/askmike/gekko,0,0,4100,Bitcoin
+bbfamily,abu,8800,https://github.com/bbfamily/abu,NA,1,3100,Bitcoin
+solana-labs,solana,7300,https://github.com/solana-labs/solana,653,216,1600,Bitcoin
+lbryio,lbry-sdk,7100,https://github.com/lbryio/lbry-sdk,344,11,456,Bitcoin
+dvf,blockchain,6700,https://github.com/dvf/blockchain,61,47,2500,Bitcoin
+yeasy,blockchain_guide,600,https://github.com/yeasy/blockchain_guide,3,0,1800,Bitcoin
+lightningnetwork,lnd,5800,https://github.com/lightningnetwork/lnd,329,105,1600,Bitcoin
+butor,blackbird,5500,https://github.com/butor/blackbird,217,2,100,Bitcoin
+spesmilo,electrum,5500,https://github.com/spesmilo/electrum,931,60,2700,Bitcoin
+btcsuite,btcd,4700,https://github.com/btcsuite/btcd,136,82,1600,Bitcoin
+bitcoinjs,bitcoinjs-lib,4500,https://github.com/bitcoinjs/bitcoinjs-lib,35,1,1700,Bitcoin
+bitcoinj,bitcoinj,4200,https://github.com/bitcoinj/bitcoinj,282,78,2300,Bitcoin
+bisq-network,bisq,3900,https://github.com/bisq-network/bisq,264,11,1200,Bitcoin
+CryptoSignal,Crypto-Signal,3800,https://github.com/CryptoSignal/Crypto-Signal,50,6,1100,Bitcoin
+michaelgrosner,tribeca,3700,https://github.com/michaelgrosner/tribeca,107,10,914,Bitcoin
+coinpride,CryptoList,3600,https://github.com/coinpride/CryptoList,9,79,573,Bitcoin
+Scanate,EthList,3600,https://github.com/Scanate/EthList,1,0,426,Bitcoin
+RomelTorres,alpha_vantage,3600,https://github.com/RomelTorres/alpha_vantage,6,5,641,Bitcoin
+jesse-ai,jesse,3600,https://github.com/jesse-ai/jesse,0,7,433,Bitcoin
+Zheaoli,awesome-coins,3500,https://github.com/Zheaoli/awesome-coins,7,2,274,Bitcoin
+bitpay,wallet,3400,https://github.com/bitpay/wallet,321,6,1700,Bitcoin
+btcpayserver,btcpayserver,3300,https://github.com/btcpayserver/btcpayserver,58,16,794,Bitcoin
+SqueezerIO,squeezer,3300,https://github.com/SqueezerIO/squeezer,15,0,154,Bitcoin
+Jeiwan,blockchain_go,3200,https://github.com/Jeiwan/blockchain_go,29,19,987,Bitcoin
+cointop-sh,cointop,300,https://github.com/cointop-sh/cointop,39,3,255,Bitcoin
+bitcoin-wallet,bitcoin-wallet,2700,https://github.com/bitcoin-wallet/bitcoin-wallet,51,16,1800,Bitcoin
+twbs,bootstrap,15500,https://github.com/twbs/bootstrap,325,130,76100,Bootstrap
+ColorlibHQ,AdminLTE,40400,https://github.com/ColorlibHQ/AdminLTE,40,20,17500,Bootstrap
+tabler,tabler,2500,https://github.com/tabler/tabler,59,4,2900,Bootstrap
+mdbootstrap,mdb-ui-kit,2200,https://github.com/mdbootstrap/mdb-ui-kit,6,0,3500,Bootstrap
+react-bootstrap,react-bootstrap,20400,https://github.com/react-bootstrap/react-bootstrap,138,33,3300,Bootstrap
+ColorlibHQ,gentelella,20400,https://github.com/ColorlibHQ/gentelella,30,17,6800,Bootstrap
+verekia,js-stack-from-scratch,18900,https://github.com/verekia/js-stack-from-scratch,39,10,1900,Bootstrap
+bootstrap-vue,bootstrap-vue,13700,https://github.com/bootstrap-vue/bootstrap-vue,147,25,1800,Bootstrap
+thomaspark,bootswatch,13400,https://github.com/thomaspark/bootswatch,14,1,3600,Bootstrap
+uxsolutions,bootstrap-datepicker,12500,https://github.com/uxsolutions/bootstrap-datepicker,761,97,6200,Bootstrap
+wenzhixin,bootstrap-table,11100,https://github.com/wenzhixin/bootstrap-table,169,3,4500,Bootstrap
+coreui,coreui-free-bootstrap-admin-template,11100,https://github.com/coreui/coreui-free-bootstrap-admin-template,20,6,300,Bootstrap
+reactstrap,reactstrap,10200,https://github.com/reactstrap/reactstrap,244,40,1300,Bootstrap
+Templarian,MaterialDesign,9800,https://github.com/Templarian/MaterialDesign,378,0,671,Bootstrap
+snapappointments,bootstrap-select,9500,https://github.com/snapappointments/bootstrap-select,236,9,2700,Bootstrap
+mdbootstrap,material-design-for-bootstrap,9500,https://github.com/mdbootstrap/material-design-for-bootstrap,25,1,1200,Bootstrap
+StartBootstrap,startbootstrap-sb-admin-2,9100,https://github.com/StartBootstrap/startbootstrap-sb-admin-2,56,12,5500,Bootstrap
+ng-bootstrap,ng-bootstrap,7900,https://github.com/ng-bootstrap/ng-bootstrap,330,58,1500,Bootstrap
+BlackrockDigital,startbootstrap,7100,https://github.com/BlackrockDigital/startbootstrap,3,0,2800,Bootstrap
+olton,Metro-UI-CSS,6900,https://github.com/olton/Metro-UI-CSS,41,0,200,Bootstrap
+twbs,icons,5900,https://github.com/twbs/icons,183,16,820,Bootstrap
+creativetimofficial,material-kit,5700,https://github.com/creativetimofficial/material-kit,17,4,658,Bootstrap
+febsteam,FEBS-Shiro,5700,https://github.com/febsteam/FEBS-Shiro,5,2,2200,Bootstrap
+valor-software,ngx-bootstrap,5400,https://github.com/valor-software/ngx-bootstrap,453,31,1700,Bootstrap
+Bttstrp,bootstrap-switch,5100,https://github.com/Bttstrp/bootstrap-switch,191,9,1500,Bootstrap
+kartik-v,bootstrap-fileinput,5100,https://github.com/kartik-v/bootstrap-fileinput,4,0,2400,Bootstrap
+jschr,bootstrap-modal,500,https://github.com/jschr/bootstrap-modal,96,14,1200,Bootstrap
+givanz,VvvebJs,4700,https://github.com/givanz/VvvebJs,156,8,1200,Bootstrap
+seyhunak,twitter-bootstrap-rails,4500,https://github.com/seyhunak/twitter-bootstrap-rails,37,21,100,Bootstrap
+cloudfavorites,favorites-web,4500,https://github.com/cloudfavorites/favorites-web,2,0,1700,Bootstrap
+ccxt,ccxt,23300,https://github.com/ccxt/ccxt,508,159,5700,Bot
+python-telegram-bot,python-telegram-bot,17700,https://github.com/python-telegram-bot/python-telegram-bot,25,7,3800,Bot
+discordjs,discord.js,17500,https://github.com/discordjs/discord.js,54,24,3200,Bot
+hubotio,hubot,16100,https://github.com/hubotio/hubot,82,19,3900,Bot
+InstaPy,InstaPy,13800,https://github.com/InstaPy/InstaPy,285,24,3500,Bot
+RasaHQ,rasa,13600,https://github.com/RasaHQ/rasa,891,116,3900,Bot
+wechaty,wechaty,12100,https://github.com/wechaty/wechaty,216,3,1700,Bot
+gunthercox,ChatterBot,1200,https://github.com/gunthercox/ChatterBot,286,36,400,Bot
+howdyai,botkit,10600,https://github.com/howdyai/botkit,24,6,2300,Bot
+botpress,botpress,9600,https://github.com/botpress/botpress,178,6,1300,Bot
+sfyc23,EverydayWechat,8800,https://github.com/sfyc23/EverydayWechat,16,3,2100,Bot
+tgbot-collection,YYeTsBot,8700,https://github.com/tgbot-collection/YYeTsBot,1,3,1300,Bot
+leon-ai,leon,8500,https://github.com/leon-ai/leon,46,12,739,Bot
+microsoft,ailab,6900,https://github.com/microsoft/ailab,24,41,1300,Bot
+EZFNDEV,EZFN-Lobbybot,6900,https://github.com/EZFNDEV/EZFN-Lobbybot,20,6,390,Bot
+microsoft,botframework-sdk,6700,https://github.com/microsoft/botframework-sdk,144,16,2400,Bot
+maxbbraun,trump2cash,6100,https://github.com/maxbbraun/trump2cash,25,7,856,Bot
+yagop,node-telegram-bot-api,5900,https://github.com/yagop/node-telegram-bot-api,198,1,1100,Bot
+deepmipt,DeepPavlov,5600,https://github.com/deepmipt/DeepPavlov,101,22,100,Bot
+botman,botman,5600,https://github.com/botman/botman,261,16,764,Bot
+telegraf,telegraf,5300,https://github.com/telegraf/telegraf,46,3,754,Bot
+pedroslopez,whatsapp-web.js,4900,https://github.com/pedroslopez/whatsapp-web.js,59,17,1200,Bot
+axa-group,nlp.js,4800,https://github.com/axa-group/nlp.js,133,6,472,Bot
+jef,streetmerchant,4800,https://github.com/jef/streetmerchant,23,15,1400,Bot
+ohld,igbot,4100,https://github.com/ohld/igbot,35,0,1500,Bot
+Mrs4s,go-cqhttp,3900,https://github.com/Mrs4s/go-cqhttp,107,11,799,Bot
+Yoctol,bottender,3800,https://github.com/Yoctol/bottender,44,8,313,Bot
+PokemonGoF,PokemonGo-Bot,3700,https://github.com/PokemonGoF/PokemonGo-Bot,149,7,1600,Bot
+chrisleekr,binance-trading-bot,3600,https://github.com/chrisleekr/binance-trading-bot,60,0,705,Bot
+snipsco,snips-nlu,3600,https://github.com/snipsco/snips-nlu,60,1,500,Bot
+Genymobile,scrcpy,61200,https://github.com/Genymobile/scrcpy,889,32,6500,C
+neovim,neovim,50800,https://github.com/neovim/neovim,1200,350,3700,C
+git,git,41100,https://github.com/git/git,NA,87,22900,C
+obsproject,obs-studio,36100,https://github.com/obsproject/obs-studio,476,153,5600,C
+fffaraz,awesome-cpp,35800,https://github.com/fffaraz/awesome-cpp,340,52,600,C
+serhii-londar,open-source-mac-os-apps,29400,https://github.com/serhii-londar/open-source-mac-os-apps,31,18,1900,C
+FFmpeg,FFmpeg,28200,https://github.com/FFmpeg/FFmpeg,NA,1,9200,C
+vim,vim,26200,https://github.com/vim/vim,1100,86,400,C
+curl,curl,23700,https://github.com/curl/curl,12,34,4900,C
+ggreer,the_silver_searcher,23300,https://github.com/ggreer/the_silver_searcher,387,123,1300,C
+huihut,interview,22200,https://github.com/huihut/interview,4,2,6200,C
+ruby,ruby,18900,https://github.com/ruby/ruby,NA,337,5800,C
+mpv-player,mpv,17800,https://github.com/mpv-player/mpv,683,87,2200,C
+google,flatbuffers,17500,https://github.com/google/flatbuffers,123,10,2700,C
+pbatard,rufus,17400,https://github.com/pbatard/rufus,12,0,1800,C
+ossrs,srs,17200,https://github.com/ossrs/srs,159,10,4300,C
+oracle,graal,16600,https://github.com/oracle/graal,755,90,1300,C
+radareorg,radare2,15800,https://github.com/radareorg/radare2,820,17,2600,C
+microsoft,vcpkg,14900,https://github.com/microsoft/vcpkg,963,214,4300,C
+shadowsocks,shadowsocks-libev,14800,https://github.com/shadowsocks/shadowsocks-libev,56,8,6400,C
+allinurl,goaccess,14300,https://github.com/allinurl/goaccess,337,8,960,C
+kovidgoyal,kitty,13600,https://github.com/kovidgoyal/kitty,14,10,661,C
+jarun,nnn,13500,https://github.com/jarun/nnn,3,0,541,C
+vurtun,nuklear,13400,https://github.com/vurtun/nuklear,207,31,1100,C
+facebook,infer,12900,https://github.com/facebook/infer,323,10,1800,C
+CoatiSoftware,Sourcetrail,12400,https://github.com/CoatiSoftware/Sourcetrail,356,0,921,C
+TheAlgorithms,C,12400,https://github.com/TheAlgorithms/C,3,15,3200,C
+hashcat,hashcat,11700,https://github.com/hashcat/hashcat,130,15,200,C
+qmk,qmk_firmware,11600,https://github.com/qmk/qmk_firmware,457,394,24500,C
+s-matyukevich,raspberry-pi-os,11200,https://github.com/s-matyukevich/raspberry-pi-os,45,4,1100,C
+electron,electron,10000,https://github.com/electron/electron,1500,115,13200,Chrome
+microsoft,playwright,34200,https://github.com/microsoft/playwright,380,14,1500,Chrome
+FiloSottile,mkcert,33700,https://github.com/FiloSottile/mkcert,85,26,1600,Chrome
+iamadamdev,bypass-paywalls-chrome,2200,https://github.com/iamadamdev/bypass-paywalls-chrome,0,0,1600,Chrome
+ovity,octotree,21800,https://github.com/ovity/octotree,41,0,1800,Chrome
+segmentio,nightmare,19100,https://github.com/segmentio/nightmare,174,21,1200,Chrome
+jaywcjlove,linux-command,17900,https://github.com/jaywcjlove/linux-command,33,2,400,Chrome
+checkly,headless-recorder,13900,https://github.com/checkly/headless-recorder,20,5,635,Chrome
+prisma-archive,chromeless,13200,https://github.com/prisma-archive/chromeless,172,26,611,Chrome
+google,WebFundamentals,12400,https://github.com/google/WebFundamentals,1200,34,2600,Chrome
+casesandberg,react-color,10400,https://github.com/casesandberg/react-color,147,32,849,Chrome
+GoogleChrome,chrome-extensions-samples,9500,https://github.com/GoogleChrome/chrome-extensions-samples,37,11,5500,Chrome
+crimx,ext-saladict,8700,https://github.com/crimx/ext-saladict,315,3,564,Chrome
+uBlock-LLC,uBlock,8100,https://github.com/uBlock-LLC/uBlock,356,14,472,Chrome
+chromedp,chromedp,7200,https://github.com/chromedp/chromedp,24,9,601,Chrome
+MetaMask,metamask-extension,7200,https://github.com/MetaMask/metamask-extension,1100,111,2800,Chrome
+alvarcarto,url-to-pdf-api,6600,https://github.com/alvarcarto/url-to-pdf-api,26,18,698,Chrome
+kangvcar,InfoSpider,600,https://github.com/kangvcar/InfoSpider,2,2,1300,Chrome
+Kenshin,simpread,5500,https://github.com/Kenshin/simpread,1200,6,432,Chrome
+yujiosaka,headless-chrome-crawler,5200,https://github.com/yujiosaka/headless-chrome-crawler,27,3,404,Chrome
+MontFerret,ferret,4900,https://github.com/MontFerret/ferret,39,1,275,Chrome
+gildas-lormeau,SingleFile,4700,https://github.com/gildas-lormeau/SingleFile,45,0,448,Chrome
+firefox-devtools,debugger,4600,https://github.com/firefox-devtools/debugger,0,0,830,Chrome
+themerdev,themer,4600,https://github.com/themerdev/themer,19,4,108,Chrome
+burtonator,polar-bookshelf,4400,https://github.com/burtonator/polar-bookshelf,964,2,258,Chrome
+nieweidong,fetool,4300,https://github.com/nieweidong/fetool,4,2,1100,Chrome
+moonD4rk,HackBrowserData,4100,https://github.com/moonD4rk/HackBrowserData,19,0,784,Chrome
+browserless,chrome,4100,https://github.com/browserless/chrome,26,2,403,Chrome
+ajayyy,SponsorBlock,400,https://github.com/ajayyy/SponsorBlock,187,9,151,Chrome
+brookhong,Surfingkeys,3900,https://github.com/brookhong/Surfingkeys,342,27,407,Chrome
+iamadamdev,bypass-paywalls-chrome,2200,https://github.com/iamadamdev/bypass-paywalls-chrome,0,0,1600,Chrome extension
+refined-github,refined-github,16900,https://github.com/refined-github/refined-github,139,9,1200,Chrome extension
+checkly,headless-recorder,13900,https://github.com/checkly/headless-recorder,20,5,635,Chrome extension
+darkreader,darkreader,12900,https://github.com/darkreader/darkreader,464,89,1800,Chrome extension
+unbug,codelf,12300,https://github.com/unbug/codelf,28,1,907,Chrome extension
+crimx,ext-saladict,8700,https://github.com/crimx/ext-saladict,315,3,564,Chrome extension
+Anarios,return-youtube-dislike,8200,https://github.com/Anarios/return-youtube-dislike,65,6,328,Chrome extension
+listen1,listen1_chrome_extension,8100,https://github.com/listen1/listen1_chrome_extension,175,9,1700,Chrome extension
+appbaseio,dejavu,7600,https://github.com/appbaseio/dejavu,49,4,493,Chrome extension
+alyssaxuu,screenity,6500,https://github.com/alyssaxuu/screenity,29,5,533,Chrome extension
+dailydotdev,daily,5600,https://github.com/dailydotdev/daily,41,1,230,Chrome extension
+Kenshin,simpread,5500,https://github.com/Kenshin/simpread,1200,6,432,Chrome extension
+gildas-lormeau,SingleFile,4700,https://github.com/gildas-lormeau/SingleFile,45,0,448,Chrome extension
+manojVivek,medium-unlimited,4600,https://github.com/manojVivek/medium-unlimited,61,10,416,Chrome extension
+dessant,buster,4400,https://github.com/dessant/buster,17,1,400,Chrome extension
+ajayyy,SponsorBlock,400,https://github.com/ajayyy/SponsorBlock,187,9,151,Chrome extension
+altair-graphql,altair,400,https://github.com/altair-graphql/altair,51,7,170,Chrome extension
+zxlie,FeHelper,3900,https://github.com/zxlie/FeHelper,113,1,100,Chrome extension
+webclipper,web-clipper,3900,https://github.com/webclipper/web-clipper,149,30,313,Chrome extension
+openstyles,stylus,3700,https://github.com/openstyles/stylus,51,3,244,Chrome extension
+bilibili-helper,bilibili-helper-o,3700,https://github.com/bilibili-helper/bilibili-helper-o,106,0,473,Chrome extension
+dejan,rails_panel,3700,https://github.com/dejan/rails_panel,28,9,153,Chrome extension
+lmk123,crx-selection-translate,3600,https://github.com/lmk123/crx-selection-translate,110,0,522,Chrome extension
+KartikTalwar,gmail.js,3500,https://github.com/KartikTalwar/gmail.js,82,4,433,Chrome extension
+Kholid060,automa,3400,https://github.com/Kholid060/automa,38,0,306,Chrome extension
+honestbleeps,Reddit-Enhancement-Suite,3400,https://github.com/honestbleeps/Reddit-Enhancement-Suite,571,49,861,Chrome extension
+WorldBrain,Memex,3400,https://github.com/WorldBrain/Memex,274,11,281,Chrome extension
+vinta,pangu.js,3300,https://github.com/vinta/pangu.js,30,16,217,Chrome extension
+sunoj,jjb,3100,https://github.com/sunoj/jjb,25,8,417,Chrome extension
+ronggang,PT-Plugin-Plus,3100,https://github.com/ronggang/PT-Plugin-Plus,89,5,465,Chrome extension
+ohmyzsh,ohmyzsh,14100,https://github.com/ohmyzsh/ohmyzsh,176,398,23600,Command line interface
+junegunn,fzf,42100,https://github.com/junegunn/fzf,229,41,1800,Command line interface
+sharkdp,bat,32400,https://github.com/sharkdp/bat,117,13,859,Command line interface
+wagoodman,dive,3000,https://github.com/wagoodman/dive,102,12,1200,Command line interface
+sherlock-project,sherlock,29500,https://github.com/sherlock-project/sherlock,72,63,3300,Command line interface
+BurntSushi,ripgrep,29400,https://github.com/BurntSushi/ripgrep,107,31,1300,Command line interface
+chubin,cheat.sh,28200,https://github.com/chubin/cheat.sh,87,3,1400,Command line interface
+cli,cli,27200,https://github.com/cli/cli,366,22,3300,Command line interface
+jesseduffield,lazygit,25900,https://github.com/jesseduffield/lazygit,259,21,100,Command line interface
+spf13,cobra,25200,https://github.com/spf13/cobra,261,99,2200,Command line interface
+angular,angular-cli,25200,https://github.com/angular/angular-cli,260,20,12100,Command line interface
+alebcay,awesome-shell,22900,https://github.com/alebcay/awesome-shell,29,52,2100,Command line interface
+google,python-fire,21900,https://github.com/google/python-fire,102,32,1300,Command line interface
+tqdm,tqdm,21200,https://github.com/tqdm/tqdm,272,68,1100,Command line interface
+n8n-io,n8n,20800,https://github.com/n8n-io/n8n,50,189,2200,Command line interface
+sharkdp,fd,20600,https://github.com/sharkdp/fd,49,5,542,Command line interface
+ibraheemdev,modern-unix,20500,https://github.com/ibraheemdev/modern-unix,41,23,487,Command line interface
+vercel,pkg,19700,https://github.com/vercel/pkg,48,6,845,Command line interface
+avajs,ava,19600,https://github.com/avajs/ava,76,5,1400,Command line interface
+chalk,chalk,1800,https://github.com/chalk/chalk,0,0,730,Command line interface
+vadimdemedes,ink,17800,https://github.com/vadimdemedes/ink,58,14,482,Command line interface
+urfave,cli,17300,https://github.com/urfave/cli,66,13,1500,Command line interface
+svg,svgo,17300,https://github.com/svg/svgo,175,31,1300,Command line interface
+gpakosz,.tmux,15900,https://github.com/gpakosz/.tmux,37,9,2700,Command line interface
+allinurl,goaccess,14300,https://github.com/allinurl/goaccess,337,8,960,Command line interface
+FormidableLabs,webpack-dashboard,13900,https://github.com/FormidableLabs/webpack-dashboard,30,0,426,Command line interface
+jarun,nnn,13500,https://github.com/jarun/nnn,3,0,541,Command line interface
+infinitered,ignite,13500,https://github.com/infinitered/ignite,55,4,1100,Command line interface
+asdf-vm,asdf,13100,https://github.com/asdf-vm/asdf,108,16,537,Command line interface
+antonmedv,fx,13100,https://github.com/antonmedv/fx,31,14,374,Command line interface
+metabase,metabase,27400,https://github.com/metabase/metabase,2000,119,3800,Clojure
+eclipse,deeplearning4j,12300,https://github.com/eclipse/deeplearning4j,762,3,4900,Clojure
+LightTable,LightTable,11700,https://github.com/LightTable/LightTable,162,16,940,Clojure
+logseq,logseq,10800,https://github.com/logseq/logseq,815,16,632,Clojure
+kanaka,mal,8400,https://github.com/kanaka/mal,19,22,200,Clojure
+lk-geimfari,awesomo,8300,https://github.com/lk-geimfari/awesomo,4,5,623,Clojure
+penpot,penpot,700,https://github.com/penpot/penpot,168,4,371,Clojure
+tonsky,datascript,4600,https://github.com/tonsky/datascript,66,8,281,Clojure
+reagent-project,reagent,4400,https://github.com/reagent-project/reagent,43,9,393,Clojure
+riemann,riemann,4100,https://github.com/riemann/riemann,20,2,526,Clojure
+weavejester,compojure,3900,https://github.com/weavejester/compojure,5,1,254,Clojure
+bbatsov,clojure-style-guide,3800,https://github.com/bbatsov/clojure-style-guide,36,0,270,Clojure
+izhangzhihao,intellij-rainbow-brackets,3700,https://github.com/izhangzhihao/intellij-rainbow-brackets,11,0,110,Clojure
+ring-clojure,ring,3400,https://github.com/ring-clojure/ring,37,13,492,Clojure
+status-im,status-react,3400,https://github.com/status-im/status-react,272,27,858,Clojure
+clojure-emacs,cider,3300,https://github.com/clojure-emacs/cider,108,1,603,Clojure
+viebel,klipse,2900,https://github.com/viebel/klipse,66,13,140,Clojure
+bhauman,lein-figwheel,2900,https://github.com/bhauman/lein-figwheel,92,6,216,Clojure
+tallesl,Rich-Hickey-fanclub,2800,https://github.com/tallesl/Rich-Hickey-fanclub,1,2,96,Clojure
+twosigma,beakerx,2600,https://github.com/twosigma/beakerx,344,0,383,Clojure
+babashka,babashka,2600,https://github.com/babashka/babashka,28,0,163,Clojure
+pedestal,pedestal,2500,https://github.com/pedestal/pedestal,43,12,282,Clojure
+clj-commons,aleph,2400,https://github.com/clj-commons/aleph,53,10,233,Clojure
+weavejester,hiccup,2400,https://github.com/weavejester/hiccup,20,5,172,Clojure
+razum2um,awesome-clojure,2300,https://github.com/razum2um/awesome-clojure,2,7,190,Clojure
+http-kit,http-kit,2200,https://github.com/http-kit/http-kit,61,9,316,Clojure
+defold,defold,200,https://github.com/defold/defold,957,15,155,Clojure
+onyx-platform,onyx,200,https://github.com/onyx-platform/onyx,80,4,212,Clojure
+anmonteiro,lumo,1900,https://github.com/anmonteiro/lumo,85,25,91,Clojure
+xtdb,xtdb,1700,https://github.com/xtdb/xtdb,161,1,128,Clojure
+realm,SwiftLint,15700,https://github.com/realm/SwiftLint,279,32,1900,Code quality
+facebook,infer,12900,https://github.com/facebook/infer,323,10,1800,Code quality
+analysis-tools-dev,static-analysis,9500,https://github.com/analysis-tools-dev/static-analysis,0,0,1100,Code quality
+checkstyle,checkstyle,6600,https://github.com/checkstyle/checkstyle,622,61,8100,Code quality
+SonarSource,sonarqube,6500,https://github.com/SonarSource/sonarqube,NA,0,1600,Code quality
+Kristories,awesome-guidelines,6500,https://github.com/Kristories/awesome-guidelines,NA,0,422,Code quality
+facebook,pyre-check,5800,https://github.com/facebook/pyre-check,75,22,382,Code quality
+reviewdog,reviewdog,4800,https://github.com/reviewdog/reviewdog,74,5,258,Code quality
+simplecov-ruby,simplecov,4400,https://github.com/simplecov-ruby/simplecov,73,9,525,Code quality
+detekt,detekt,4300,https://github.com/detekt/detekt,111,12,585,Code quality
+import-js,eslint-plugin-import,3800,https://github.com/import-js/eslint-plugin-import,407,60,1300,Code quality
+PyCQA,pylint,3800,https://github.com/PyCQA/pylint,738,39,812,Code quality
+pmd,pmd,3700,https://github.com/pmd/pmd,561,20,1300,Code quality
+phpro,grumphp,3700,https://github.com/phpro/grumphp,7,2,396,Code quality
+htmlhint,HTMLHint,2700,https://github.com/htmlhint/HTMLHint,24,15,357,Code quality
+kucherenko,jscpd,2500,https://github.com/kucherenko/jscpd,33,7,146,Code quality
+codeclimate,codeclimate,2300,https://github.com/codeclimate/codeclimate,41,3,254,Code quality
+trekhleb,state-of-the-art-shitcode,2300,https://github.com/trekhleb/state-of-the-art-shitcode,10,16,163,Code quality
+uber,piranha,1900,https://github.com/uber/piranha,38,8,140,Code quality
+wemake-services,wemake-python-styleguide,1800,https://github.com/wemake-services/wemake-python-styleguide,77,10,325,Code quality
+ehmicky,cross-platform-node-guide,1200,https://github.com/ehmicky/cross-platform-node-guide,0,0,68,Code quality
+Tencent,feflow,1100,https://github.com/Tencent/feflow,6,4,178,Code quality
+urish,typewiz,1100,https://github.com/urish/typewiz,27,8,38,Code quality
+Tencent,CodeAnalysis,988,https://github.com/Tencent/CodeAnalysis,5,0,128,Code quality
+jakzal,phpqa,988,https://github.com/jakzal/phpqa,7,1,63,Code quality
+joshuaclayton,unused,874,https://github.com/joshuaclayton/unused,1,0,26,Code quality
+imgbot,Imgbot,861,https://github.com/imgbot/Imgbot,24,26,210,Code quality
+SonarSource,SonarJS,783,https://github.com/SonarSource/SonarJS,109,1,153,Code quality
+pdepend,pdepend,783,https://github.com/pdepend/pdepend,49,2,124,Code quality
+SonarSource,SonarTS,767,https://github.com/SonarSource/SonarTS,59,0,54,Code quality
+ovity,octotree,21800,https://github.com/ovity/octotree,41,0,1800,Code review
+gitpod-io,gitpod,7100,https://github.com/gitpod-io/gitpod,681,37,734,Code review
+reviewdog,reviewdog,4800,https://github.com/reviewdog/reviewdog,74,5,258,Code review
+danger,danger,4700,https://github.com/danger/danger,145,3,435,Code review
+danger,danger-js,4200,https://github.com/danger/danger-js,134,8,317,Code review
+joho,awesome-code-review,3300,https://github.com/joho/awesome-code-review,5,15,263,Code review
+houndci,hound,1900,https://github.com/houndci/hound,54,5,408,Code review
+ajinabraham,nodejsscan,1900,https://github.com/ajinabraham/nodejsscan,1,0,304,Code review
+mbj,mutant,1800,https://github.com/mbj/mutant,118,9,147,Code review
+microsoft,vscode-pull-request-github,1800,https://github.com/microsoft/vscode-pull-request-github,278,14,391,Code review
+crev-dev,cargo-crev,1500,https://github.com/crev-dev/cargo-crev,26,0,72,Code review
+reviewboard,reviewboard,1400,https://github.com/reviewboard/reviewboard,NA,1,407,Code review
+ryanmcdermott,code-review-tips,1100,https://github.com/ryanmcdermott/code-review-tips,0,0,144,Code review
+bit4woo,python_sec,1100,https://github.com/bit4woo/python_sec,1,0,301,Code review
+code-review-checklists,java-concurrency,100,https://github.com/code-review-checklists/java-concurrency,8,3,115,Code review
+Tencent,CodeAnalysis,988,https://github.com/Tencent/CodeAnalysis,5,0,128,Code review
+jiangsir404,Audit-Learning,823,https://github.com/jiangsir404/Audit-Learning,1,0,164,Code review
+TeamCodeStream,codestream,735,https://github.com/TeamCodeStream/codestream,123,17,143,Code review
+enlightn,enlightn,620,https://github.com/enlightn/enlightn,12,4,37,Code review
+palantir,policy-bot,450,https://github.com/palantir/policy-bot,65,3,62,Code review
+bsamseth,cpp-project,445,https://github.com/bsamseth/cpp-project,1,1,113,Code review
+uwolfer,gerrit-intellij-plugin,431,https://github.com/uwolfer/gerrit-intellij-plugin,95,5,96,Code review
+mookid,diffr,411,https://github.com/mookid/diffr,12,1,18,Code review
+mgreiler,code-review-checklist,394,https://github.com/mgreiler/code-review-checklist,2,0,83,Code review
+JetBrains,Qodana,347,https://github.com/JetBrains/Qodana,0,3,22,Code review
+dpnishant,raptor,327,https://github.com/dpnishant/raptor,2,0,136,Code review
+sjparkinson,static-review,326,https://github.com/sjparkinson/static-review,0,0,26,Code review
+burrito-brothers,shiba,288,https://github.com/burrito-brothers/shiba,5,8,7,Code review
+charignon,github-review,275,https://github.com/charignon/github-review,16,5,22,Code review
+wandersoncferreira,code-review,264,https://github.com/wandersoncferreira/code-review,30,2,16,Code review
+vercel,next.js,81300,https://github.com/vercel/next.js,888,200,16700,Compiler
+rust-lang,rust,63400,https://github.com/rust-lang/rust,5000,525,8800,Compiler
+webpack,webpack,60500,https://github.com/webpack/webpack,191,122,8200,Compiler
+sveltejs,svelte,55800,https://github.com/sveltejs/svelte,546,118,2700,Compiler
+gatsbyjs,gatsby,52300,https://github.com/gatsbyjs/gatsby,125,196,10100,Compiler
+babel,babel,40400,https://github.com/babel/babel,631,150,5200,Compiler
+JetBrains,kotlin,40300,https://github.com/JetBrains/kotlin,NA,129,500,Compiler
+parcel-bundler,parcel,40200,https://github.com/parcel-bundler/parcel,681,65,2100,Compiler
+evanw,esbuild,30400,https://github.com/evanw/esbuild,214,21,761,Compiler
+vlang,v,26900,https://github.com/vlang/v,686,15,1700,Compiler
+markedjs,marked,26900,https://github.com/markedjs/marked,47,2,3100,Compiler
+swc-project,swc,20400,https://github.com/swc-project/swc,230,22,619,Compiler
+vercel,pkg,19700,https://github.com/vercel/pkg,48,6,845,Compiler
+v8,v8,19100,https://github.com/v8/v8,NA,0,3600,Compiler
+AssemblyScript,assemblyscript,13500,https://github.com/AssemblyScript/assemblyscript,128,46,563,Compiler
+Konloch,bytecode-viewer,12700,https://github.com/Konloch/bytecode-viewer,44,0,972,Compiler
+nim-lang,Nim,12500,https://github.com/nim-lang/Nim,2000,212,1300,Compiler
+ziglang,zig,12500,https://github.com/ziglang/zig,1900,68,1100,Compiler
+gopherjs,gopherjs,10900,https://github.com/gopherjs/gopherjs,180,11,511,Compiler
+RustPython,RustPython,10600,https://github.com/RustPython/RustPython,148,53,719,Compiler
+compiler-explorer,compiler-explorer,10200,https://github.com/compiler-explorer/compiler-explorer,451,17,1200,Compiler
+goplus,gop,7900,https://github.com/goplus/gop,37,4,521,Compiler
+apache,tvm,7700,https://github.com/apache/tvm,224,108,2400,Compiler
+numba,numba,7300,https://github.com/numba/numba,1200,200,882,Compiler
+JetBrains,kotlin-native,7100,https://github.com/JetBrains/kotlin-native,0,0,622,Compiler
+elm,compiler,6700,https://github.com/elm/compiler,241,24,611,Compiler
+aalhour,awesome-compilers,6500,https://github.com/aalhour/awesome-compilers,20,34,543,Compiler
+Nuitka,Nuitka,6400,https://github.com/Nuitka/Nuitka,178,3,361,Compiler
+DoctorWkt,acwj,6100,https://github.com/DoctorWkt/acwj,10,1,528,Compiler
+rescript-lang,rescript-compiler,5700,https://github.com/rescript-lang/rescript-compiler,320,53,395,Compiler
+localstack,localstack,38700,https://github.com/localstack/localstack,338,18,2900,Continuous integration
+harness,drone,24500,https://github.com/harness/drone,NA,20,2400,Continuous integration
+jenkinsci,jenkins,18400,https://github.com/jenkinsci/jenkins,NA,73,7200,Continuous integration
+auchenberg,volkswagen,12200,https://github.com/auchenberg/volkswagen,17,42,249,Continuous integration
+openshift,origin,8100,https://github.com/openshift/origin,131,71,4700,Continuous integration
+gocd,gocd,6400,https://github.com/gocd/gocd,37,16,923,Continuous integration
+concourse,concourse,6200,https://github.com/concourse/concourse,805,25,774,Continuous integration
+theonedev,onedev,5900,https://github.com/theonedev/onedev,NA,0,462,Continuous integration
+buildbot,buildbot,4800,https://github.com/buildbot/buildbot,625,9,1600,Continuous integration
+gaia-pipeline,gaia,4600,https://github.com/gaia-pipeline/gaia,27,4,223,Continuous integration
+Strider-CD,strider,4600,https://github.com/Strider-CD/strider,175,3,445,Continuous integration
+jenkins-x,jx,4100,https://github.com/jenkins-x/jx,104,3,752,Continuous integration
+ovh,cds,3700,https://github.com/ovh/cds,166,9,355,Continuous integration
+xcpretty,xcpretty,3700,https://github.com/xcpretty/xcpretty,85,32,286,Continuous integration
+hygieia,hygieia,3700,https://github.com/hygieia/hygieia,122,6,1800,Continuous integration
+cake-build,cake,3200,https://github.com/cake-build/cake,244,12,681,Continuous integration
+werf,werf,2900,https://github.com/werf/werf,238,1,146,Continuous integration
+iterative,cml,2900,https://github.com/iterative/cml,82,10,212,Continuous integration
+ligurio,awesome-ci,2800,https://github.com/ligurio/awesome-ci,2,0,232,Continuous integration
+JamesIves,github-pages-deploy-action,2600,https://github.com/JamesIves/github-pages-deploy-action,3,1,222,Continuous integration
+tox-dev,tox,2600,https://github.com/tox-dev/tox,40,1,400,Continuous integration
+TheLartians,ModernCppStarter,2500,https://github.com/TheLartians/ModernCppStarter,8,3,192,Continuous integration
+dancryer,PHPCI,2400,https://github.com/dancryer/PHPCI,225,7,469,Continuous integration
+dreamans,syncd,2100,https://github.com/dreamans/syncd,38,19,354,Continuous integration
+shivammathur,setup-php,200,https://github.com/shivammathur/setup-php,1,0,207,Continuous integration
+houndci,hound,1900,https://github.com/houndci/hound,54,5,408,Continuous integration
+fabric8io,fabric8,1800,https://github.com/fabric8io/fabric8,785,3,524,Continuous integration
+lastbackend,lastbackend,1500,https://github.com/lastbackend/lastbackend,7,3,112,Continuous integration
+Flagsmith,flagsmith,1400,https://github.com/Flagsmith/flagsmith,90,12,94,Continuous integration
+nuke-build,nuke,1400,https://github.com/nuke-build/nuke,29,24,222,Continuous integration
+CSSEGISandData,COVID-19,28300,https://github.com/CSSEGISandData/COVID-19,1600,288,18400,COVID-19
+covid19india,covid19india-react,6900,https://github.com/covid19india/covid19india-react,27,11,3500,COVID-19
+nytimes,covid-19-data,6800,https://github.com/nytimes/covid-19-data,81,0,3200,COVID-19
+tokyo-metropolitan-gov,covid19,6300,https://github.com/tokyo-metropolitan-gov/covid19,52,20,2100,COVID-19
+owid,covid-19-data,4900,https://github.com/owid/covid-19-data,7,10,3200,COVID-19
+pcm-dpc,COVID-19,3900,https://github.com/pcm-dpc/COVID-19,171,0,2300,COVID-19
+ieee8023,covid-chestxray-dataset,2800,https://github.com/ieee8023/covid-chestxray-dataset,39,2,1200,COVID-19
+disease-sh,API,2300,https://github.com/disease-sh/API,7,9,652,COVID-19
+geohot,corona,2200,https://github.com/geohot/corona,25,21,413,COVID-19
+WorldHealthOrganization,app,2100,https://github.com/WorldHealthOrganization/app,102,24,528,COVID-19
+ahmadawais,corona-cli,1800,https://github.com/ahmadawais/corona-cli,22,20,198,COVID-19
+corona-warn-app,cwa-server,1800,https://github.com/corona-warn-app/cwa-server,4,4,358,COVID-19
+ExpDev07,coronavirus-tracker-api,1600,https://github.com/ExpDev07/coronavirus-tracker-api,31,8,332,COVID-19
+github,covid19-dashboard,1500,https://github.com/github/covid19-dashboard,184,0,423,COVID-19
+soroushchehresa,awesome-coronavirus,1500,https://github.com/soroushchehresa/awesome-coronavirus,0,0,374,COVID-19
+mhdhejazi,CoronaTracker,1500,https://github.com/mhdhejazi/CoronaTracker,21,2,288,COVID-19
+neherlab,covid19_scenarios,1400,https://github.com/neherlab/covid19_scenarios,38,6,372,COVID-19
+covidpass-org,covidpass,1200,https://github.com/covidpass-org/covidpass,15,0,69,COVID-19
+pomber,covid19,1200,https://github.com/pomber/covid19,9,2,390,COVID-19
+chandrikadeb7,Face-Mask-Detection,1200,https://github.com/chandrikadeb7/Face-Mask-Detection,12,2,678,COVID-19
+chrismattmann,tika-python,1100,https://github.com/chrismattmann/tika-python,24,5,209,COVID-19
+datasets,covid-19,1100,https://github.com/datasets/covid-19,33,0,607,COVID-19
+FoldingAtHome,coronavirus,1100,https://github.com/FoldingAtHome/coronavirus,11,2,85,COVID-19
+lindawangg,COVID-Net,1100,https://github.com/lindawangg/COVID-Net,31,6,466,COVID-19
+cyberman54,ESP32-Paxcounter,981,https://github.com/cyberman54/ESP32-Paxcounter,23,5,303,COVID-19
+ImperialCollegeLondon,covid19model,943,https://github.com/ImperialCollegeLondon/covid19model,13,5,266,COVID-19
+UCSD-AI4H,COVID-CT,921,https://github.com/UCSD-AI4H/COVID-CT,7,0,397,COVID-19
+nychealth,coronavirus-data,902,https://github.com/nychealth/coronavirus-data,10,0,605,COVID-19
+MoH-Malaysia,covid19-public,900,https://github.com/MoH-Malaysia/covid19-public,43,43,552,COVID-19
+makers-for-life,makair,771,https://github.com/makers-for-life/makair,14,1,78,COVID-19
+CyC2018,CS-Notes,14600,https://github.com/CyC2018/CS-Notes,99,49,46600,C++
+practical-tutorials,project-based-learning,62800,https://github.com/practical-tutorials/project-based-learning,11,2,9600,C++
+azl397985856,leetcode,46500,https://github.com/azl397985856/leetcode,6,5,8700,C++
+x64dbg,x64dbg,38100,https://github.com/x64dbg/x64dbg,484,17,1800,C++
+fffaraz,awesome-cpp,35800,https://github.com/fffaraz/awesome-cpp,340,52,600,C++
+microsoft,calculator,23800,https://github.com/microsoft/calculator,245,7,4300,C++
+CMU-Perceptual-Computing-Lab,openpose,23300,https://github.com/CMU-Perceptual-Computing-Lab/openpose,124,7,6900,C++
+youngyangyang04,leetcode-master,22400,https://github.com/youngyangyang04/leetcode-master,63,34,5800,C++
+huihut,interview,22200,https://github.com/huihut/interview,4,2,6200,C++
+yuzu-emu,yuzu,1900,https://github.com/yuzu-emu/yuzu,865,47,1600,C++
+TheAlgorithms,C-Plus-Plus,1800,https://github.com/TheAlgorithms/C-Plus-Plus,9,59,4900,C++
+changkun,modern-cpp-tutorial,16500,https://github.com/changkun/modern-cpp-tutorial,4,1,2100,C++
+microsoft,vcpkg,14900,https://github.com/microsoft/vcpkg,963,215,4300,C++
+ethereum,solidity,14800,https://github.com/ethereum/solidity,903,74,3600,C++
+catchorg,Catch2,14500,https://github.com/catchorg/Catch2,305,13,2500,C++
+gabime,spdlog,13800,https://github.com/gabime/spdlog,26,0,2900,C++
+AnthonyCalandra,modern-cpp-features,13500,https://github.com/AnthonyCalandra/modern-cpp-features,7,3,1500,C++
+Qv2ray,Qv2ray,13100,https://github.com/Qv2ray/Qv2ray,20,0,2700,C++
+facebook,infer,12900,https://github.com/facebook/infer,323,10,1800,C++
+CoatiSoftware,Sourcetrail,12400,https://github.com/CoatiSoftware/Sourcetrail,356,0,921,C++
+doocs,leetcode,12400,https://github.com/doocs/leetcode,2,0,2300,C++
+ssloy,tinyrenderer,12100,https://github.com/ssloy/tinyrenderer,26,0,1200,C++
+google,tink,12100,https://github.com/google/tink,102,24,1100,C++
+antlr,antlr4,11500,https://github.com/antlr/antlr4,615,81,2600,C++
+kyleneideck,BackgroundMusic,10900,https://github.com/kyleneideck/BackgroundMusic,383,0,534,C++
+SFTtech,openage,10800,https://github.com/SFTtech/openage,224,19,1100,C++
+OpenRCT2,OpenRCT2,10200,https://github.com/OpenRCT2/OpenRCT2,1300,88,1200,C++
+compiler-explorer,compiler-explorer,10200,https://github.com/compiler-explorer/compiler-explorer,451,17,1200,C++
+Ciphey,Ciphey,9400,https://github.com/Ciphey/Ciphey,42,11,606,C++
+hmemcpy,milewski-ctfp-pdf,9200,https://github.com/hmemcpy/milewski-ctfp-pdf,37,15,494,C++
